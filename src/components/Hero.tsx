@@ -20,22 +20,11 @@ export function Hero() {
       </h1>
 
       {/* Subtítulo */}
-      <p className="text-center text-slate-400 text-base sm:text-lg max-w-2xl mx-auto leading-relaxed mb-8">
+      <p className="text-center text-slate-400 text-base sm:text-lg max-w-2xl mx-auto leading-relaxed">
         Você escolheu caminhar pelo caminho certo, com direção,
         acompanhamento e estratégia. Siga os próximos passos para acessar sua
         mentoria e iniciar sua preparação da forma correta.
       </p>
-
-      {/* Frase de impacto */}
-      <div className="relative mx-auto max-w-2xl">
-        <div className="absolute inset-0 bg-gradient-to-r from-green-500/0 via-green-500/10 to-green-500/0 rounded-xl blur-sm" />
-        <div className="relative border border-[rgba(34,197,94,0.3)] rounded-xl px-6 py-4 bg-[rgba(34,197,94,0.06)]">
-          <p className="text-center text-green-300 font-semibold text-base sm:text-lg leading-snug">
-            &ldquo;Agora é hora de entrar no ambiente certo, seguir o plano e
-            acelerar sua aprovação.&rdquo;
-          </p>
-        </div>
-      </div>
     </section>
   );
 }

@@ -133,7 +133,7 @@ export function StepsChecklist() {
             className="inline-flex items-center gap-1.5 text-xs text-slate-500 hover:text-slate-300 transition-colors px-3 py-1.5 rounded-lg border border-slate-800 hover:border-slate-700"
           >
             <RotateCcw size={12} />
-            Refazer checklist
+            Reiniciar Tarefas
           </button>
         )}
       </div>
