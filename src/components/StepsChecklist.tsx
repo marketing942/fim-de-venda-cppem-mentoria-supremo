@@ -23,7 +23,7 @@ const STEPS: Step[] = [
     description:
       "Acesse o grupo VIP oficial da Mentoria Plano de Combate Supremo. Esse será um dos canais importantes para avisos, direcionamentos e acompanhamento da sua preparação.",
     buttonLabel: "Entrar no Grupo VIP",
-    link: "https://chat.whatsapp.com/J4Y212N6Ssk06PzHOGGw5q",
+    link: "https://links.cppem.com.br/grupo-vip-plano-supremo",
   },
   {
     id: 3,
